@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+requests
+streamlit
+google-generativeai
+chromadb
+sentence-transformers
+pdfplumber
+# docx2txt
+python-multipart
+numpy
+torch
